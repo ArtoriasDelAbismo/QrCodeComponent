@@ -25,20 +25,20 @@ body {
 }
 
 .wrapper {
-    width: 269px;
-    height: 440px;
+    width: 259px;
+    height: 416px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border-radius: 16px;
+    border-radius: 18px;
     background: var(--White);
 }
 
 /*Image*/
 
 .qr {
-    width: 268px;
-    height: 268px;
+    width: 259px;
+    height: 259px;
     display: flex;
     justify-content: center;
     border-radius: 12px;
@@ -48,10 +48,11 @@ body {
 
 
 
+
 .qr img {
-    width: 249px;
-    height: 249px;
-    border-radius: 16px;
+    width: 240px;
+    height: 250px;
+    border-radius: 8px;
     top: 11px;
     position: relative;
 }
@@ -64,13 +65,13 @@ body {
     justify-content: center;
     text-align: center;
     position: relative;
-    top: -75px
+    top: 3px;
 }
     
-#first-paragraph p{
-    margin: 4px 22px 12px 22px;
+#first-paragraph p {
+    margin: 11px 25px 12px 25px;
+    font-size: 16px;
     font-weight: 700;
-    
 }
 
 #second-paragraph {
@@ -78,14 +79,16 @@ body {
     justify-content: center;
     text-align: center;
     position: relative;
-    top: -85px
+    top: -19px;
 }
 
-#second-paragraph p{
-    font-size: small;
-    margin: 24px 20px 12px 20px;
-    
+#second-paragraph p {
+    margin: 23px 16px 12px 16px;
+    font-weight: 400;
+    font-size: 12px;
 }
+
+
 
 
 
