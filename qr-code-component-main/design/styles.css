@@ -1,3 +1,6 @@
+
+/*General*/
+
 :root {
     --White: hsl(0, 0%, 100%);
     --Light-Gray: hsl(212, 45%, 89%);
@@ -9,11 +12,10 @@ body {
     font-family: 'Quicksand', sans-serif;
     background: var(--Light-Gray);
     margin: 0;
+    font-size: 15px;
 }
 
-
-
-
+/*Box*/
 
 .main-container{
     width: 100%;
@@ -23,31 +25,39 @@ body {
 }
 
 .wrapper {
-    width: 277px;
-    height: 455px;
-    border-radius: 12px;
-    background: var(--White);
+    width: 269px;
+    height: 440px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    border-radius: 16px;
+    background: var(--White);
 }
+
+/*Image*/
 
 .qr {
-    width: 276px;
-    border-radius: 12px;
-    position: relative;
-    top: -46px;
-    background: var(--White);
+    width: 268px;
+    height: 268px;
     display: flex;
     justify-content: center;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    border-radius: 12px;
+    position: relative;
+    background: var(--White);
 }
 
+
+
 .qr img {
-    width: 250px;
-    border-radius: 12px;
+    width: 249px;
+    height: 249px;
+    border-radius: 16px;
+    top: 11px;
+    position: relative;
 }
+
+
+/*Texts*/
 
 #first-paragraph {
     display: flex;
@@ -60,6 +70,7 @@ body {
 #first-paragraph p{
     margin: 4px 22px 12px 22px;
     font-weight: 700;
+    
 }
 
 #second-paragraph {
@@ -73,7 +84,10 @@ body {
 #second-paragraph p{
     font-size: small;
     margin: 24px 20px 12px 20px;
+    
 }
+
+
 
 
 
