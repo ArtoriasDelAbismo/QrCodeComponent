@@ -22,10 +22,9 @@ Welcome everybody!👋🏼 This is my solution to my very first project ever! Do
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Coming soon](https://your-solution-url.com)
+- Live Site URL: [Coming soon](https://your-live-site-url.com)
 
-## My process
 
 ### Built with
 
@@ -33,28 +32,13 @@ Welcome everybody!👋🏼 This is my solution to my very first project ever! Do
 - CSS custom properties
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-
-
-
-### Useful resources
 
 
 ## Author
 
-- Website - [Jero](https://www.jeronimojournade.com)
+- Website - [www.jeronimojournade.com](https://www.jeronimojournade.com)
 - Frontend Mentor - [@Artorias](https://www.frontendmentor.io/profile/ArtoriasDelAbismo)
 - Twitter - [@JeroConOjotas](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
 
